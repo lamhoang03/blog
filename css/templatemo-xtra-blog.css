@@ -16,6 +16,10 @@ body {
     line-height: 2em;
     overflow-x: hidden;
 }
+img{
+    width: 400px;
+    margin-bottom: 30px;
+}
 
 p, span { color: #999; }
 hr { 
